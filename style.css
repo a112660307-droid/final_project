@@ -26,12 +26,13 @@ section {
 }
 
 .profile-pic {
-    width: 150px;
-    height: 150px;
-    background-color: lightgray;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    width: 180px;
+}
+
+.profile-pic img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
 }
 
 .dream-grid {
